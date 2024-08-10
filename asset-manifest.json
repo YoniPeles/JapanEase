@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JapanEase/static/css/main.962ccc77.css",
+    "main.js": "/JapanEase/static/js/main.fb740a2b.js",
+    "index.html": "/JapanEase/index.html",
+    "main.962ccc77.css.map": "/JapanEase/static/css/main.962ccc77.css.map",
+    "main.fb740a2b.js.map": "/JapanEase/static/js/main.fb740a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962ccc77.css",
+    "static/js/main.fb740a2b.js"
+  ]
+}
