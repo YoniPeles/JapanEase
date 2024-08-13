@@ -1,0 +1,9 @@
+Translate the following English words into natural, fluent Japanese. Use the most appropriate Japanese words or phrases, including kanji where natural. Format your response as a JSON array where each element is an object containing:
+1. 'english': The original English word or phrase
+2. 'japanese': The Japanese translation
+
+Here are the words:
+
+{words}
+
+Respond only with the JSON array, no additional text.

@@ -1,0 +1,9 @@
+For the following Japanese words or phrases, provide the furigana reading. Format your response as a JSON array where each element is an object containing:
+1. 'japanese': The original Japanese word or phrase
+2. 'furigana': The furigana reading of the Japanese word or phrase
+
+Here are the words:
+
+{words}
+
+Respond only with the JSON array, no additional text.
