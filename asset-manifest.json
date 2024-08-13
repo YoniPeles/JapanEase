@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JapanEase/static/css/main.962ccc77.css",
-    "main.js": "/JapanEase/static/js/main.fb740a2b.js",
+    "main.css": "/JapanEase/static/css/main.004ea37b.css",
+    "main.js": "/JapanEase/static/js/main.c6b6d352.js",
     "index.html": "/JapanEase/index.html",
-    "main.962ccc77.css.map": "/JapanEase/static/css/main.962ccc77.css.map",
-    "main.fb740a2b.js.map": "/JapanEase/static/js/main.fb740a2b.js.map"
+    "main.004ea37b.css.map": "/JapanEase/static/css/main.004ea37b.css.map",
+    "main.c6b6d352.js.map": "/JapanEase/static/js/main.c6b6d352.js.map"
   },
   "entrypoints": [
-    "static/css/main.962ccc77.css",
-    "static/js/main.fb740a2b.js"
+    "static/css/main.004ea37b.css",
+    "static/js/main.c6b6d352.js"
   ]
 }
